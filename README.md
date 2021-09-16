@@ -10,6 +10,18 @@
 - Discord: unknоwn#6718
 - <a href="https://discord.gg/KsRVMCxnEB">Мой сервер</a> в Discord
 - Моя страница <a href="https://vk.com/1eave_me_alone">Вконтакте</a>
+
+### Моё рабочее место
+- IDE: Visual Studio Code
+- OS: Windows 10
+- CPU: Intel Core i5 6500 Skylake
+- GPU: Sapphire Radeon RX 580 8GB NITRO+
+- RAM: 2хDDR4 8GB 2400mhz
+- Motherboard: ASUS ROG STRIX B250G GAMING
+- SSD: Asgard AN M.2 NVMe 256GB
+- HDD: Western Digital Blue 1TB
+- Case: AeroCool Aero-500G RGB Black
+- Monitor: LG 24MP59G-P
   
 ### Моя статистика
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=FregOnlyOne&show_icons=true&theme=tokyonight" alt="FregOnlyOne"/>
