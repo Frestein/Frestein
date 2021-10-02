@@ -16,7 +16,7 @@
 - OS: Windows 10
 - CPU: Intel Core i5 6500 Skylake
 - GPU: Sapphire Radeon RX 580 8GB NITRO+
-- RAM: 2хDDR4 8GB 2400mhz
+- RAM: 2хDDR4 8GB 2400MHz
 - SSD: Asgard AN M.2 NVMe 256GB
 - HDD: Western Digital Blue 1TB
 - Monitor: LG 24MP59G-P
