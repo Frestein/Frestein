@@ -3,12 +3,10 @@
 ### Ну типа привет.
 - Настоящее имя: Яковлев Никита Александрович
 - В данный момент я изучаю вёрстку
-- Предпочитаю работать один
 - Работаю и учусь под <a href="https://music.youtube.com/channel/UCQzZlg__X-tAZdkCpQXzJyQ">музыку</a>
 
 ### Связаться со мной
 - Discord: unknоwn#6718
-- <a href="https://discord.gg/KsRVMCxnEB">Мой сервер</a> в Discord
 - Моя страница <a href="https://vk.com/1eave_me_alone">Вконтакте</a>
 
 ### Моё рабочее место
