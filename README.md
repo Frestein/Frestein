@@ -2,7 +2,7 @@
 
 ### Связаться со мной
 - Discord: unknоwn#6718
-- Моя страница <a href="https://vk.com/dmitrybaranov28">Вконтакте</a>
+- <a href="https://vk.com/dmitrybaranov28">Вконтакте</a>
 
 ### Моё рабочее место
 - IDE: Visual Studio Code
