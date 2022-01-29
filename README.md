@@ -1,9 +1,5 @@
 # About-me
 
-### Ну типа привет.
-- Настоящее имя: Яковлев Никита Александрович
-- Работаю и учусь под <a href="https://music.youtube.com/channel/UCQzZlg__X-tAZdkCpQXzJyQ">музыку</a>
-
 ### Связаться со мной
 - Discord: unknоwn#6718
 - Моя страница <a href="https://vk.com/dmitrybaranov28">Вконтакте</a>
