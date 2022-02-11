@@ -5,7 +5,7 @@
 - <a href="https://vk.com/dmitrybaranov28">Вконтакте</a>
 
 ### Моё рабочее место
-- IDE: Visual Studio Code
+- IDE: Visual Studio Code/WebStorm
 - OS: Windows 10
 - CPU: Intel Core i5 6500 Skylake
 - GPU: Sapphire Radeon RX 580 8GB NITRO+
