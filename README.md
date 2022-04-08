@@ -2,6 +2,7 @@
 
 ### Связаться со мной
 - Discord: unknоwn#6718
+- Telegram: @FregOnlyOne
 - <a href="https://vk.com/dmitrybaranov28">Вконтакте</a>
 
 ### Моё рабочее место
