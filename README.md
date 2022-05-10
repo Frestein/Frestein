@@ -1,6 +1,6 @@
 <h1 align="center">About me</h1>
 <div align="center">
-  <img src="https://github.com/FregOnlyOne/FregOnlyOne/blob/main/ononoki-yotsugi.gif" width=75%>
+  <img src="https://github.com/FregOnlyOne/FregOnlyOne/blob/main/ononoki-yotsugi.gif" width=80%>
 </div>
 <div>
   <h3>My statistics</h3>
@@ -14,7 +14,7 @@
 <div>
   <h3>My workspace</h3>
   <ul>
-    <li>IDE: Visual Studio Code/WebStorm/PhpStorm</li>
+    <li>IDE: PhpStorm</li>
     <li>OS: Windows 10</li>
     <li>CPU: Intel Core i5 6500 Skylake</li>
     <li>GPU: Sapphire Radeon RX 580 8GB NITRO+</li>
