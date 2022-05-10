@@ -1,6 +1,6 @@
 <h1 align="center">About me</h1>
 <div align="center">
-  <img src="https://tenor.com/view/ononoki-yotsugi-ononoki-yotsugi-gif-21908880" width="385px">
+  <img src="https://github.com/FregOnlyOne/FregOnlyOne/blob/main/ononoki-yotsugi.gif" width=75%>
 </div>
 <div>
   <h3>My statistics</h3>
