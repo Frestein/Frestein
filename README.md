@@ -3,7 +3,7 @@
   <img src="https://github.com/FregOnlyOne/FregOnlyOne/blob/main/ononoki-yotsugi.gif" width=80%>
 </div>
 <div>
-  <h3>My stats</h3>
+  <h3>My statistic</h3>
   <ul>
     <li>Programming languages: PHP, SQL</li>
     <li>DBMS: MySQL</li>
