@@ -9,7 +9,9 @@
     <li>DBMS: MySQL</li>
     <li>English language: A1</li>
   </ul>
-  <a href="https://www.codewars.com/users/FregOnlyOne"><img src="https://www.codewars.com/users/FregOnlyOne/badges/large"></a>
+  <div align="center">
+    <a href="https://www.codewars.com/users/FregOnlyOne"><img src="https://www.codewars.com/users/FregOnlyOne/badges/large"></a>
+  </div>
 </div>
 <div>
   <h3>My workspace</h3>
