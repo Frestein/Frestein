@@ -1,24 +1,41 @@
-# About-me
-
-### Связаться со мной
-- Discord: unknоwn#6718
-- Telegram: @FregOnlyOne
-- <a href="https://vk.com/dmitrybaranov28">Вконтакте</a>
-
-### Моё рабочее место
-- IDE: Visual Studio Code/WebStorm/PhpStorm
-- OS: Windows 10
-- CPU: Intel Core i5 6500 Skylake
-- GPU: Sapphire Radeon RX 580 8GB NITRO+
-- RAM: 2хDDR4 8GB 2400MHz
-- SSD: Asgard AN M.2 NVMe 256GB
-- HDD: Western Digital Blue 1TB
-- Monitor: LG 24MP59G-P
-  
-### Моя статистика
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=FregOnlyOne&show_icons=true&theme=tokyonight" alt="FregOnlyOne"/>
-  
-<a href="https://www.codewars.com/users/FregOnlyOne"> <img src="https://www.codewars.com/users/FregOnlyOne/badges/large"></a>
-
-### Наиболее часто используемые языки
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FregOnlyOne&layout=compact&theme=tokyonight" alt="FregOnlyOne"/>
+<h1 align="center">About me</h1>
+<div align="center">
+  <img src="https://tenor.com/view/ononoki-yotsugi-ononoki-yotsugi-gif-21908880" width="385px">
+</div>
+<div>
+  <h3>My statistics</h3>
+  <ul>
+    <li>Programming languages: PHP, SQL</li>
+    <li>DBMS: MySQL</li>
+    <li>English language: A1</li>
+  </ul>
+  <a href="https://www.codewars.com/users/FregOnlyOne"><img src="https://www.codewars.com/users/FregOnlyOne/badges/large"></a>
+</div>
+<div>
+  <h3>My workspace</h3>
+  <ul>
+    <li>IDE: Visual Studio Code/WebStorm/PhpStorm</li>
+    <li>OS: Windows 10</li>
+    <li>CPU: Intel Core i5 6500 Skylake</li>
+    <li>GPU: Sapphire Radeon RX 580 8GB NITRO+</li>
+    <li>RAM: 2хDDR4 8GB 2400MHz</li>
+    <li>SSD: Asgard AN M.2 NVMe 256GB</li>
+    <li>HDD: Western Digital Blue 1TB</li>
+    <li>Monitor: LG 24MP59G-Pm</li>
+  </ul>
+</div>
+<div>
+  <h3>Other statistic</h3>
+  <div>
+    <img width=45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=FregOnlyOne&layout=compact&theme=tokyonight" alt="FregOnlyOne"/>
+    <img align="right" width=45% src="https://github-readme-stats.vercel.app/api?username=FregOnlyOne&show_icons=true&theme=tokyonight" alt="FregOnlyOne"/>
+  </div>
+</div>
+<div>
+  <h3>Contacts</h3>
+  <ul>
+    <li>Discord: unknоwn#6718</li>
+    <li><a href="https://t.me/fregonlyone">telegram</a></li>
+    <li><a href="https://vk.com/dmitrybaranov28">VK</a></li>
+  </ul>
+</div>
