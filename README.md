@@ -1,6 +1,6 @@
 <h1 align="center">About me</h1>                                <!-- Я специально написал на html. -->
 <div align="center">
-  <img src="https://github.com/FregOnlyOne/FregOnlyOne/blob/main/ononoki-yotsugi.gif" width=750px height=318px>
+  <img src="https://github.com/FregOnlyOne/FregOnlyOne/blob/main/ononoki-yotsugi.gif" width=800px height=340px>
 </div>
 <div>
   <h3>Skills</h3>
