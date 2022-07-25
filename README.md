@@ -36,7 +36,7 @@
 <div>
   <h3>Contacts</h3>
   <ul>
-    <li><a href="https://discord.gg/KsRVMCxnEB">Discord</a></li>
+    <li><a href="https://discord.gg/AQGYP9pKU9">Discord</a></li>
     <li><a href="https://t.me/fregonlyone">telegram</a></li>
     <li><a href="https://vk.com/dmitrybaranov28">VK</a></li>
   </ul>
