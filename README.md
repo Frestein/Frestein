@@ -32,9 +32,7 @@
 </div>
 <div>
   <h3>Contacts</h3>
-  <ul>
-    <li><a href="https://discord.gg/AQGYP9pKU9">Discord</a></li>
-    <li><a href="https://t.me/fregonlyone">telegram</a></li>
-    <li><a href="https://vk.com/dmitrybaranov28">VK</a></li>
-  </ul>
+    <a href="https://t.me/fregonlyone"><img src="https://github.com/FregOnlyOne/FregOnlyOne/blob/main/telegram.png" width=50px height=50px></a>
+    <a href="https://vk.com/dmitrybaranov28"><img src="https://github.com/FregOnlyOne/FregOnlyOne/blob/main/vk.png" width=50px height=50px></a>
+    <a href="https://discord.gg/AQGYP9pKU9"><img src="https://github.com/FregOnlyOne/FregOnlyOne/blob/main/discord.png" width=50px height=50px></a></li>
 </div>
