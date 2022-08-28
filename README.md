@@ -51,11 +51,9 @@
   <h3>Account statistics</h3>
   <div>
     <img width=45% alt="Most Used Languages" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FregOnlyOne&layout=compact&theme=tokyonight"
-    />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FregOnlyOne&layout=compact&theme=tokyonight" />
     <img width=45% align="right" alt="FregOnlyOne's Github Stats" 
-    src="https://github-readme-stats.vercel.app/api?username=FregOnlyOne&show_icons=true&theme=tokyonight"
-    />
+    src="https://github-readme-stats.vercel.app/api?username=FregOnlyOne&show_icons=true&theme=tokyonight" />
   </div>
 </div>
 <div>
