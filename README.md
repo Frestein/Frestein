@@ -58,15 +58,18 @@
 </div>
 <div>
   <h3>Contacts</h3>
-  <div>
+  <div align="center">
+    <a href="https://vk.com/dmitrybaranov28">
+      <img src="https://github.com/FregOnlyOne/FregOnlyOne/blob/main/VK.svg" width=50px height=50px>
+    </a>
     <a href="https://t.me/fregonlyone">
       <img src="https://github.com/FregOnlyOne/FregOnlyOne/blob/main/Telegram.svg" width=50ph height=50px>
     </a>
     <a href="https://discord.gg/AQGYP9pKU9">
       <img src="https://github.com/FregOnlyOne/FregOnlyOne/blob/main/Discord.svg" width=50px height=50px>
     </a>
-    <a href="https://vk.com/dmitrybaranov28">
-      <img src="https://github.com/FregOnlyOne/FregOnlyOne/blob/main/VK.svg" width=50px height=50px>
+    <a href="https://twitter.com/unknown220228">
+      <img src="https://github.com/FregOnlyOne/FregOnlyOne/blob/main/twitter.svg" width=50px height=50px>
     </a>
   </div>
 </div>
