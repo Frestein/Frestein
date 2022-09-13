@@ -59,7 +59,7 @@
 <div>
   <h3>Contacts</h3>
   <div align="center">
-    <a href="https://vk.com/dmitrybaranov28">
+    <a href="https://vk.com/nikitayakovlev28">
       <img src="https://github.com/FregOnlyOne/FregOnlyOne/blob/main/VK.svg" width=50px height=50px>
     </a>
     <a href="https://t.me/fregonlyone">
