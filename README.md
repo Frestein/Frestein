@@ -3,13 +3,16 @@
   <h3>Skills</h3>
   <ul>
     <li>
-      Programming languages: PHP, SQL
+      Programming Languages: PHP, SQL
     </li>
     <li>
       DBMS: MySQL
     </li>
     <li>
-      English language: A1
+      Other Skills: Docker, Git
+    </li>
+    <li>
+      English Language: A1
     </li>
   </ul>
   <div align="center">
