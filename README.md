@@ -9,7 +9,7 @@
       DBMS: MySQL
     </li>
     <li>
-      Other Skills: Docker, Git
+      Docker, Git
     </li>
     <li>
       English Language: A1
