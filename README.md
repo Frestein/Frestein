@@ -3,13 +3,16 @@
   <h3>Skills</h3>
   <ul>
     <li>
+      Frameworks: Laravel
+    </li>
+    <li>
       Programming Languages: PHP, SQL
     </li>
     <li>
       DBMS: MySQL
     </li>
     <li>
-      Docker, Git
+      REST, Docker, Git
     </li>
     <li>
       English Language: A1
