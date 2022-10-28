@@ -6,8 +6,9 @@
       «Умен не тот, кто не делает ошибок. Таких людей нет и быть не может. Умен тот, кто делает ошибки не очень существенные
       и кто может и умеет легко и быстро исправлять их.»,
     </p>
-    <p align="right">— Владимир Ильич Ленин.</p>
-     
+    <p align="right">
+      — Владимир Ильич Ленин.
+    </p>
   </blockquote>
 </div>
 <div>
@@ -29,11 +30,6 @@
       English Language: A1
     </li>
   </ul>
-  <div align="center">
-    <a href="https://www.codewars.com/users/FregOnlyOne">
-      <img src="https://www.codewars.com/users/FregOnlyOne/badges/large">
-    </a>
-  </div>
 </div>
 <div>
   <h3>My workspace</h3>
