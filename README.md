@@ -35,7 +35,7 @@
   <h3>My workspace</h3>
   <ul>
     <li>
-      IDE: PhpStorm
+      IDE: PhpStorm, Visual Studio Code
     </li>
     <li>
       OS: Windows 10
