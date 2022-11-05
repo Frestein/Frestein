@@ -15,7 +15,7 @@
   <h3>Skills</h3>
   <ul>
     <li>
-      Frameworks: Laravel
+      Frameworks: Laravel, Bootstrap
     </li>
     <li>
       Programming Languages: PHP, SQL
