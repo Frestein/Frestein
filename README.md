@@ -38,7 +38,7 @@
       IDE: PhpStorm, Visual Studio Code
     </li>
     <li>
-      OS: Windows 10, Linux
+      OS: Windows 10 & Fedora Linux 37
     </li>
     <li>
       CPU: Intel Core i5 6500 Skylake
