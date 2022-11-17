@@ -18,7 +18,7 @@
       Frameworks: Laravel, Bootstrap
     </li>
     <li>
-      Programming Languages: PHP, SQL
+      Programming Languages: PHP, C#, SQL
     </li>
     <li>
       DBMS: MySQL
