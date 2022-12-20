@@ -15,6 +15,9 @@
   <h3>Skills</h3>
   <ul>
     <li>
+      Platforms: .NET
+    </li>
+    <li>
       Frameworks: Laravel, Bootstrap
     </li>
     <li>
