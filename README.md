@@ -77,9 +77,6 @@
   <div>
     <ul>
       <li>
-        <a href="https://vk.com/nikitayakovlev28">VK</a>
-      </li>
-      <li>
         <a href="https://t.me/fregonlyone">Telegram</a>
       </li>
     </ul>
