@@ -77,7 +77,7 @@
   <div>
     <ul>
       <li>
-        <a href="https://t.me/fregonlyone">Telegram</a>
+        <a href="https://t.me/fresteinart">Telegram</a>
       </li>
     </ul>
   </div>
