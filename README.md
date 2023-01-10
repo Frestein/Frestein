@@ -30,7 +30,7 @@
       REST, Docker, Git
     </li>
     <li>
-      English Language: A1
+      English Language: A2
     </li>
   </ul>
 </div>
