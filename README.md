@@ -38,7 +38,7 @@
   <h3>My workspace</h3>
   <ul>
     <li>
-      IDE: PhpStorm, Visual Studio Code
+      IDE: PhpStorm, Visual Studio Code, Rider
     </li>
     <li>
       OS: Windows 10, Fedora Linux 37
