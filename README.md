@@ -24,7 +24,7 @@
       Programming Languages: PHP, C#, SQL
     </li>
     <li>
-      DBMS: MySQL
+      DBMS: MySQL, SQL Server
     </li>
     <li>
       REST, Docker, Git
