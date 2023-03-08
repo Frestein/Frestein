@@ -18,7 +18,7 @@
       Platforms: .NET
     </li>
     <li>
-      Frameworks: Laravel, Bootstrap
+      Frameworks: Laravel, Tailwind CSS, Bootstrap
     </li>
     <li>
       Programming Languages: PHP, C#, SQL
