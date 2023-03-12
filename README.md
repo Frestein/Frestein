@@ -1,4 +1,5 @@
-<h1 align="center">About me</h1>                                <!-- Specially written in HTML. -->
+<!-- Specially written in HTML. -->
+<h1 align="center">About me</h1>
 <div>
   <h3>Мудрость</h3>
   <blockquote>
