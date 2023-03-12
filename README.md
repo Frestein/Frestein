@@ -15,16 +15,13 @@
   <h3>Skills</h3>
   <ul>
     <li>
-      Platforms: .NET
-    </li>
-    <li>
       Frameworks: Laravel, Tailwind CSS, Bootstrap
     </li>
     <li>
-      Programming Languages: PHP, C#, SQL
+      Programming Languages: PHP, SQL
     </li>
     <li>
-      DBMS: MySQL, SQL Server
+      DBMS: MySQL
     </li>
     <li>
       REST, Docker, Git
