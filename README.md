@@ -25,20 +25,22 @@
       DBMS: MySQL
     </li>
     <li>
-      Linux, Docker, Git
-    </li>
-    <li>
       English Language: A2
     </li>
   </ul>
+  <div>
+    <img src="https://img.shields.io/badge/-Linux-2b2b2b?style=for-the-badge&logo=linux"/>
+    <img src="https://img.shields.io/badge/-Docker-2b2b2b?style=for-the-badge&logo=docker"/>
+    <img src="https://img.shields.io/badge/-Git-2b2b2b?style=for-the-badge&logo=git"/>
+  </div>
 </div>
 <div>
   <h3>Account statistics</h3>
   <div>
     <img alt="Most Used Languages" width=50%
-    src="https://github-readme-stats.vercel.app/api?username=FregOnlyOne&show_icons=true&theme=tokyonight" />
+    src="https://github-readme-stats.vercel.app/api?username=FregOnlyOne&show_icons=true&theme=tokyonight"/>
     <img align="right" alt="FregOnlyOne's Github Stats" width=40%
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FregOnlyOne&layout=compact&theme=tokyonight" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FregOnlyOne&layout=compact&theme=tokyonight"/>
   </div>
 </div>
 <div>
