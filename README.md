@@ -18,45 +18,16 @@
       Frameworks: Laravel, Tailwind CSS, Bootstrap
     </li>
     <li>
-      Programming Languages: PHP, SQL
+      Programming Languages: PHP, JavaScript, SQL
     </li>
     <li>
       DBMS: MySQL
     </li>
     <li>
-      REST, Docker, Git
+      Linux, Docker, Git
     </li>
     <li>
       English Language: A2
-    </li>
-  </ul>
-</div>
-<div>
-  <h3>My workspace</h3>
-  <ul>
-    <li>
-      IDE: PhpStorm, Visual Studio Code, Rider
-    </li>
-    <li>
-      OS: Windows 10, Fedora Linux 37
-    </li>
-    <li>
-      CPU: Intel Core i5 6500 Skylake
-    </li>
-    <li>
-      GPU: Sapphire Radeon RX 580 8GB NITRO+
-    </li>
-    <li>
-      RAM: 2хDDR4 8GB 2400MHz
-    </li>
-    <li>
-      SSD: Asgard AN M.2 NVMe 256GB
-    </li>
-    <li>
-      HDD: Western Digital Blue 1TB
-    </li>
-    <li>
-      Monitor: LG 24MP59G-Pm
     </li>
   </ul>
 </div>
