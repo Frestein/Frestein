@@ -16,7 +16,7 @@
   <h3>Skills</h3>
   <ul>
     <li>
-      Frameworks: Laravel, Tailwind CSS, Bootstrap
+      Frameworks: Laravel, Bootstrap
     </li>
     <li>
       Programming Languages: PHP, JavaScript, SQL
