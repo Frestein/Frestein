@@ -38,9 +38,9 @@
   <h3>Account statistics</h3>
   <div>
     <img alt="Most Used Languages" width=50%
-    src="https://github-readme-stats.vercel.app/api?username=FregOnlyOne&show_icons=true&theme=tokyonight"/>
+    src="https://github-readme-stats.vercel.app/api?username=Frestein&show_icons=true&theme=tokyonight"/>
     <img align="right" alt="FregOnlyOne's Github Stats" width=40%
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FregOnlyOne&layout=compact&theme=tokyonight"/>
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frestein&layout=compact&theme=tokyonight"/>
   </div>
 </div>
 <div>
