@@ -16,13 +16,10 @@
   <h3>Skills</h3>
   <ul>
     <li>
-      Platforms: .NET
+      Frameworks: Laravel, Bootstrap
     </li>
     <li>
-      Frameworks: Laravel, Bootstrap, EF Core
-    </li>
-    <li>
-      Programming Languages: PHP, JavaScript, C#, SQL
+      Programming Languages: PHP, JavaScript, SQL
     </li>
     <li>
       DBMS: MySQL
