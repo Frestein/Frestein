@@ -4,7 +4,7 @@
   <h3>Quote</h3>
   <blockquote align="right">
     <p>
-      «God must be a painter. Why else would we have so many colors?», — Alicia Larde "A Beautiful Mind".
+      «God must be a painter. Why else would we have so many colors?», — Alicia Larde "A Beautiful Mind". 
     </p>
   </blockquote>
 </div>
