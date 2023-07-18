@@ -1,14 +1,10 @@
 <!-- Specially written in HTML. -->
 <h1 align="center">About me</h1>
 <div>
-  <h3>Мудрость</h3>
-  <blockquote>
+  <h3>Quote</h3>
+  <blockquote align="right">
     <p>
-      «Умен не тот, кто не делает ошибок. Таких людей нет и быть не может. Умен тот, кто делает ошибки не очень существенные
-      и кто может и умеет легко и быстро исправлять их.»,
-    </p>
-    <p align="right">
-      — Владимир Ильич Ленин.
+      «God must be a painter. Why else would we have so many colors?», — Alicia Larde "A Beautiful Mind".
     </p>
   </blockquote>
 </div>
@@ -25,11 +21,12 @@
       DBMS: MySQL
     </li>
     <li>
-      English Language: A2
+      English Language: B1
     </li>
   </ul>
   <div>
-    <img src="https://img.shields.io/badge/-Linux-2b2b2b?style=for-the-badge&logo=linux"/>
+    <img src="https://img.shields.io/badge/-Linux-2b2b2b?style=for-the-badge&logo=archlinux"/>
+    <img src="https://img.shields.io/badge/-Bash-2b2b2b?style=for-the-badge&logo=gnubash"/>
     <img src="https://img.shields.io/badge/-Docker-2b2b2b?style=for-the-badge&logo=docker"/>
     <img src="https://img.shields.io/badge/-Git-2b2b2b?style=for-the-badge&logo=git"/>
   </div>
