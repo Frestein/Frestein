@@ -28,6 +28,7 @@
     <img src="https://img.shields.io/badge/-Linux-2b2b2b?style=for-the-badge&logo=archlinux"/>
     <img src="https://img.shields.io/badge/-Bash-2b2b2b?style=for-the-badge&logo=gnubash"/>
     <img src="https://img.shields.io/badge/-Docker-2b2b2b?style=for-the-badge&logo=docker"/>
+    <img src="https://img.shields.io/badge/-Figma-2b2b2b?style=for-the-badge&logo=figma"/>
     <img src="https://img.shields.io/badge/-Git-2b2b2b?style=for-the-badge&logo=git"/>
   </div>
 </div>
