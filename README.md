@@ -16,7 +16,7 @@
 [![Git](https://img.shields.io/badge/-Git-1a1d22?style=for-the-badge&logo=git "Git")](https://git-scm.com/)
 
 ### Statistics
-[![GitHub Stats-Dark](https://github-readme-stats.vercel.app/api?username=Frestein&show_icons=true&theme=dark&bg_color=1a1d22#gh-dark-mode-only "GitHub Stats")](https://www.youtube.com/watch?v=dQw4w9WgXcQ#gh-dark-mode-onlyн)
+[![GitHub Stats-Dark](https://github-readme-stats.vercel.app/api?username=Frestein&show_icons=true&theme=dark&bg_color=1a1d22#gh-dark-mode-only "GitHub Stats")](https://www.youtube.com/watch?v=dQw4w9WgXcQ#gh-dark-mode-only)
 [![GitHub Stats-Light](https://github-readme-stats.vercel.app/api?username=Frestein&show_icons=true&theme=default#gh-light-mode-only "GitHub Stats")](https://www.youtube.com/watch?v=dQw4w9WgXcQ#gh-light-mode-only)
 
 
