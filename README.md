@@ -9,14 +9,14 @@
 - DBMS: MySQL
 - English Language: B1
 
-[![Arch Linux](https://img.shields.io/badge/-Linux-0f1114?style=for-the-badge&logo=archlinux "Arch Linux")](https://archlinux.org/)
-[![Bash](https://img.shields.io/badge/-Bash-0f1114?style=for-the-badge&logo=gnubash "Bash")](https://www.gnu.org/software/bash/)
-[![Docker](https://img.shields.io/badge/-Docker-0f1114?style=for-the-badge&logo=docker "Docker")](https://www.docker.com/)
-[![Figma](https://img.shields.io/badge/-Figma-0f1114?style=for-the-badge&logo=figma "Figma")](https://www.figma.com/)
-[![Git](https://img.shields.io/badge/-Git-0f1114?style=for-the-badge&logo=git "Git")](https://git-scm.com/)
+[![Arch Linux](https://img.shields.io/badge/-Linux-1a1d22?style=for-the-badge&logo=archlinux "Arch Linux")](https://archlinux.org/)
+[![Bash](https://img.shields.io/badge/-Bash-1a1d22?style=for-the-badge&logo=gnubash "Bash")](https://www.gnu.org/software/bash/)
+[![Docker](https://img.shields.io/badge/-Docker-1a1d22?style=for-the-badge&logo=docker "Docker")](https://www.docker.com/)
+[![Figma](https://img.shields.io/badge/-Figma-1a1d22?style=for-the-badge&logo=figma "Figma")](https://www.figma.com/)
+[![Git](https://img.shields.io/badge/-Git-1a1d22?style=for-the-badge&logo=git "Git")](https://git-scm.com/)
 
 ### Statistics
-[![GitHub Stats-Dark](https://github-readme-stats.vercel.app/api?username=Frestein&show_icons=true&theme=dark&bg_color=0f1114#gh-dark-mode-only "GitHub Stats")](https://www.youtube.com/watch?v=dQw4w9WgXcQ#gh-dark-mode-onlyн)
+[![GitHub Stats-Dark](https://github-readme-stats.vercel.app/api?username=Frestein&show_icons=true&theme=dark&bg_color=1a1d22#gh-dark-mode-only "GitHub Stats")](https://www.youtube.com/watch?v=dQw4w9WgXcQ#gh-dark-mode-onlyн)
 [![GitHub Stats-Light](https://github-readme-stats.vercel.app/api?username=Frestein&show_icons=true&theme=default#gh-light-mode-only "GitHub Stats")](https://www.youtube.com/watch?v=dQw4w9WgXcQ#gh-light-mode-only)
 
 
