@@ -22,3 +22,4 @@
 
 ### Contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-1a1d22?style=for-the-badge&logo=telegram "Telegram")](https://t.me/fresteinart)
+[![Shikimori](https://img.shields.io/badge/-Shikimori-1a1d22?style=for-the-badge&logo=Shikimori "Shikimori")](https://shikimori.me/Frestein)
