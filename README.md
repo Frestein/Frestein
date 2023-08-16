@@ -14,7 +14,6 @@
 [![GitHub Stats-Dark](https://github-readme-stats.vercel.app/api?username=Frestein&show_icons=true&theme=dark&bg_color=131519#gh-dark-mode-only "GitHub Stats")](https://www.youtube.com/watch?v=dQw4w9WgXcQ#gh-dark-mode-only)
 [![GitHub Stats-Light](https://github-readme-stats.vercel.app/api?username=Frestein&show_icons=true&theme=default#gh-light-mode-only "GitHub Stats")](https://www.youtube.com/watch?v=dQw4w9WgXcQ#gh-light-mode-only)
 
-
 ### Contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-1a1d22?style=for-the-badge&logo=telegram "Telegram")](https://t.me/fresteinart)
 [![Shikimori](https://img.shields.io/badge/-Shikimori-1a1d22?style=for-the-badge&logo=Shikimori "Shikimori")](https://shikimori.me/Frestein)
