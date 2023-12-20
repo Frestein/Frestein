@@ -4,6 +4,8 @@
 > «God must be a painter. Why else would we have so many colors?», — Alicia Larde "A Beautiful Mind".
 
 ### Skills
+[![Android](https://img.shields.io/badge/-Android-1a1d22?style=for-the-badge&logo=android "Android")](https://developer.android.com/docs)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-1a1d22?style=for-the-badge&logo=kotlin "Kotlin")](https://kotlinlang.org/)
 [![Arch Linux](https://img.shields.io/badge/-Linux-1a1d22?style=for-the-badge&logo=archlinux "Arch Linux")](https://archlinux.org/)
 [![Bash](https://img.shields.io/badge/-Bash-1a1d22?style=for-the-badge&logo=gnubash "Bash")](https://www.gnu.org/software/bash/)
 [![Docker](https://img.shields.io/badge/-Docker-1a1d22?style=for-the-badge&logo=docker "Docker")](https://www.docker.com/)
@@ -16,4 +18,3 @@
 
 ### Contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-1a1d22?style=for-the-badge&logo=telegram "Telegram")](https://t.me/fresteinart)
-[![Shikimori](https://img.shields.io/badge/-Shikimori-1a1d22?style=for-the-badge&logo=Shikimori "Shikimori")](https://shikimori.me/Frestein)
