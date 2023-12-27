@@ -3,6 +3,10 @@
 ### Quote
 > «God must be a painter. Why else would we have so many colors?», — Alicia Larde "A Beautiful Mind".
 
+<div align="center">
+  <img width="75%" alt="Hello, World" src="/ononoki-yotsugi.gif"> 
+</div>
+
 ### Skills
 [![Android](https://img.shields.io/badge/-Android-1a1d22?style=for-the-badge&logo=android "Android")](https://developer.android.com/docs)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-1a1d22?style=for-the-badge&logo=kotlin "Kotlin")](https://kotlinlang.org/)
