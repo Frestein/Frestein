@@ -4,7 +4,7 @@
 > «God must be a painter. Why else would we have so many colors?», — Alicia Larde "A Beautiful Mind".
 
 <div align="center">
-  <img width="75%" alt="Hello, World" src="/ononoki-yotsugi.gif"> 
+  <img width="50%" alt="Hello, World" src="/ononoki-yotsugi.gif"> 
 </div>
 
 ### Skills
