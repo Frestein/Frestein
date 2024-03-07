@@ -14,10 +14,10 @@
 [![Kotlin](https://img.shields.io/badge/-Kotlin-1a1d22?style=for-the-badge&logo=kotlin "Kotlin")](https://kotlinlang.org/)
 [![Python](https://img.shields.io/badge/-Python-1a1d22?style=for-the-badge&logo=python "Python")](https://www.python.org/)
 [![Arch Linux](https://img.shields.io/badge/-Linux-1a1d22?style=for-the-badge&logo=archlinux "Arch Linux")](https://archlinux.org/)
-[![Bash](https://img.shields.io/badge/-Bash-1a1d22?style=for-the-badge&logo=gnubash "Bash")](https://www.gnu.org/software/bash/)
 [![Docker](https://img.shields.io/badge/-Docker-1a1d22?style=for-the-badge&logo=docker "Docker")](https://www.docker.com/)
-[![Figma](https://img.shields.io/badge/-Figma-1a1d22?style=for-the-badge&logo=figma "Figma")](https://www.figma.com/)
 [![Git](https://img.shields.io/badge/-Git-1a1d22?style=for-the-badge&logo=git "Git")](https://git-scm.com/)
+[![Zsh](https://img.shields.io/badge/-Zsh-1a1d22?style=for-the-badge&logo=zsh "Zsh")](https://www.zsh.org/)
+[![Figma](https://img.shields.io/badge/-Figma-1a1d22?style=for-the-badge&logo=figma "Figma")](https://www.figma.com/)
 
 ### Statistics
 [![GitHub Stats-Dark](https://github-readme-stats-frestein.vercel.app/api?username=Frestein&show_icons=true&theme=dark&bg_color=131519#gh-dark-mode-only "GitHub Stats")](https://www.youtube.com/watch?v=dQw4w9WgXcQ#gh-dark-mode-only)
