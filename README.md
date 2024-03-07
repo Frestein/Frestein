@@ -5,7 +5,7 @@
 
 ### Btw, i use Arch
 <div align="center">
- <img src="https://vhs.charm.sh/vhs-1Xc9cNQnYEZAUbdU9kbuTi.gif" width="700" alt="Made with VHS">
+ <img src="https://vhs.charm.sh/vhs-1Xc9cNQnYEZAUbdU9kbuTi.gif" width="600" alt="Made with VHS">
 </div>
 
 ### Skills
