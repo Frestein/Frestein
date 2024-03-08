@@ -1,11 +1,16 @@
 # <div align="center">About me</div> <a href="https://wakatime.com/@68f484d1-8dc6-407c-8ffc-5e15f4f09571">
-<a href="https://wakatime.com/@68f484d1-8dc6-407c-8ffc-5e15f4f09571"><img src="https://wakatime.com/badge/user/68f484d1-8dc6-407c-8ffc-5e15f4f09571.svg" align="right" alt="Total time coded" /></a>
+
+<a href="https://wakatime.com/@68f484d1-8dc6-407c-8ffc-5e15f4f09571">
+ <img src="https://wakatime.com/badge/user/68f484d1-8dc6-407c-8ffc-5e15f4f09571.svg" align="right" alt="Total time coded" />
+</a>
 
 > «God must be a painter. Why else would we have so many colors?», — "A Beautiful Mind".
 
 ### Btw, i use Arch
 <div align="center">
- <img src="https://vhs.charm.sh/vhs-1Xc9cNQnYEZAUbdU9kbuTi.gif" width="600" alt="Made with VHS">
+ <a href="https://vhs.charm.sh">
+  <img src="https://vhs.charm.sh/vhs-1Xc9cNQnYEZAUbdU9kbuTi.gif" width="600" alt="Made with VHS">
+ </a>
 </div>
 
 ### Skills
