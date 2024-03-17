@@ -1,6 +1,6 @@
 # <div align="center">About me</div> <a href="https://wakatime.com/@68f484d1-8dc6-407c-8ffc-5e15f4f09571">
 
-<a href="https://wakatime.com/@68f484d1-8dc6-407c-8ffc-5e15f4f09571">
+<a href="https://wakatime.com/@Frestein">
  <img src="https://wakatime.com/badge/user/68f484d1-8dc6-407c-8ffc-5e15f4f09571.svg?style=flat-square" align="right" alt="Total time coded" />
 </a>
 
