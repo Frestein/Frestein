@@ -27,10 +27,10 @@
 ### Statistics
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ#gh-dark-mode-only" >
- <img src="https://github-readme-stats-frestein.vercel.app/api/top-langs/?username=Frestein&layout=compact&show_icons=true&theme=dark&bg_color=1a1d22&icon_color=57a143&title_color=57a143" align="right" alt="Most Used Languages" title="Most Used Languages"/>
+ <img src="https://github-readme-stats-frestein.vercel.app/api/top-langs/?username=Frestein&layout=compact&show_icons=true&theme=dark&bg_color=1a1d22&icon_color=57a143&title_color=57a143&exclude_repo=mpv,cascade" align="right" alt="Most Used Languages" title="Most Used Languages"/>
 </a>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ#gh-light-mode-only" >
- <img src="https://github-readme-stats-frestein.vercel.app/api/top-langs/?username=Frestein&layout=compact&show_icons=true&theme=default&bg_color=eff1f5&text_color=4c4f69&icon_color=40a02b&title_color=40a02b" align="right" alt="Most Used Languages" title="Most Used Languages"/>
+ <img src="https://github-readme-stats-frestein.vercel.app/api/top-langs/?username=Frestein&layout=compact&show_icons=true&theme=default&bg_color=eff1f5&text_color=4c4f69&icon_color=40a02b&title_color=40a02b&exclude_repo=mpv,cascade" align="right" alt="Most Used Languages" title="Most Used Languages"/>
 </a>
 
 [![GitHub Stats-Dark](https://github-readme-stats-frestein.vercel.app/api?username=Frestein&show_icons=true&theme=dark&bg_color=1a1d22&icon_color=57a143&title_color=57a143 "GitHub Stats")](https://www.youtube.com/watch?v=dQw4w9WgXcQ#gh-dark-mode-only)
