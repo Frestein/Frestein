@@ -6,7 +6,7 @@
 
 > «God must be a painter. Why else would we have so many colors?», — "A Beautiful Mind".
 
-### Btw, i use Arch
+### I use Arch, btw
 <div align="center">
  <a href="https://vhs.charm.sh">
   <img src="https://vhs.charm.sh/vhs-1R8oK1jkfvWvLpPlDqeyMU.gif" width="600" alt="Made with VHS">
