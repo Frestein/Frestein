@@ -35,7 +35,7 @@
 
 
 <div align="center">
- <img src="https://moe-counter.glitch.me/get/@Frestein?theme=rule34"  alt="Frestein">
+ <img src="https://moe-counter.glitch.me/get/@Frestein?theme=rule34" width="250" alt="Frestein">
 </div>
 
 ### Contacts
