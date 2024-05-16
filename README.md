@@ -33,10 +33,5 @@
 [![GitHub Stats-Dark](https://github-readme-stats-frestein.vercel.app/api?username=Frestein&show_icons=true&theme=dark&bg_color=1a1d22&icon_color=57a143&title_color=57a143 "GitHub Stats")](https://www.youtube.com/watch?v=dQw4w9WgXcQ#gh-dark-mode-only)
 [![GitHub Stats-Light](https://github-readme-stats-frestein.vercel.app/api?username=Frestein&show_icons=true&theme=default&bg_color=eff1f5&text_color=4c4f69&icon_color=40a02b&title_color=40a02b "GitHub Stats")](https://www.youtube.com/watch?v=dQw4w9WgXcQ#gh-light-mode-only)
 
-
-<div align="center">
- <img src="https://moe-counter.glitch.me/get/@Frestein?theme=rule34" width="250" alt="Frestein">
-</div>
-
 ### Contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-1a1d22?style=for-the-badge&logo=telegram "Telegram")](https://t.me/fresteinart)
