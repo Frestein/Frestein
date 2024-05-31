@@ -14,7 +14,7 @@
 </div>
 
 ### Skills
-[![Ricing Linux](https://img.shields.io/badge/-Rising%20Linux-1a1d22?style=for-the-badge&logo=linux "Ricing Linux")](https://archlinux.org/)
+[![Ricing Linux](https://img.shields.io/badge/-Rising%20Linux-1a1d22?style=for-the-badge&logo=linux "Ricing Linux")](https://www.reddit.com/r/unixporn/)
 [![Neovim](https://img.shields.io/badge/-Neovim-1a1d22?style=for-the-badge&logo=neovim "Neovim")](https://neovim.io/)
 [![Android](https://img.shields.io/badge/-Android-1a1d22?style=for-the-badge&logo=android "Android")](https://developer.android.com/docs)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-1a1d22?style=for-the-badge&logo=kotlin "Kotlin")](https://kotlinlang.org/)
