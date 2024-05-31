@@ -34,4 +34,5 @@
 [![GitHub Stats-Light](https://github-readme-stats-frestein.vercel.app/api?username=Frestein&show_icons=true&theme=default&bg_color=eff1f5&text_color=4c4f69&icon_color=40a02b&title_color=40a02b "GitHub Stats")](https://www.youtube.com/watch?v=dQw4w9WgXcQ#gh-light-mode-only)
 
 ### Contacts
+[![Tutanota](https://img.shields.io/badge/-Tutanota-1a1d22?style=for-the-badge&logo=tutanota "Tutanota")](mailto:frestein@tuta.io)
 [![Telegram](https://img.shields.io/badge/-Telegram-1a1d22?style=for-the-badge&logo=telegram "Telegram")](https://t.me/fresteinart)
