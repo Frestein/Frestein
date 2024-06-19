@@ -9,7 +9,7 @@
 ### I use Arch, btw
 <div align="center">
  <a href="https://vhs.charm.sh">
-  <img src="https://vhs.charm.sh/vhs-fEdZMl793KvgMJ8rBACwX.gif" width="400" alt="Made with VHS">
+  <img src="https://vhs.charm.sh/vhs-2tUOCqi7niSQRJkLMbVl0F.gif" width="400" alt="Made with VHS">
  </a>
 </div>
 
