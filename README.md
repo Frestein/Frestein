@@ -15,12 +15,12 @@
 
 ### Skills
 [![Ricing Linux](https://img.shields.io/badge/-Rising%20Linux-FFD700?style=for-the-badge&logo=linux&logoColor=1a1d22 "Ricing Linux")](https://www.reddit.com/r/unixporn/)
+[![Shell Scripting](https://img.shields.io/badge/-Shell%20Scripting-4EAA1B?style=for-the-badge&logo=zsh&logoColor=1a1d22 "Shell Scripting")](https://www.zsh.org/)
 [![Neovim](https://img.shields.io/badge/-Neovim-3C3F4D?style=for-the-badge&logo=neovim "Neovim")](https://neovim.io/)
+[![Lua](https://img.shields.io/badge/-Lua-00007C?style=for-the-badge&logo=lua "Lua")](https://www.lua.org/about.html)
 [![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android "Android")](https://developer.android.com/docs)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-A97BFF?style=for-the-badge&logo=kotlin "Kotlin")](https://kotlinlang.org/)
 [![Python](https://img.shields.io/badge/-Python-4A9BC2?style=for-the-badge&logo=python "Python")](https://www.python.org/)
-[![Lua](https://img.shields.io/badge/-Lua-00007C?style=for-the-badge&logo=lua "Lua")](https://www.lua.org/about.html)
-[![Shell Scripting](https://img.shields.io/badge/-Shell%20Scripting-4EAA1B?style=for-the-badge&logo=zsh&logoColor=1a1d22 "Shell Scripting")](https://www.zsh.org/)
 
 ### Statistics
 
@@ -35,5 +35,5 @@
 [![GitHub Stats-Light](https://github-readme-stats-frestein.vercel.app/api?username=Frestein&show_icons=true&theme=default&bg_color=eff1f5&text_color=4c4f69&icon_color=40a02b&title_color=40a02b "GitHub Stats")](https://www.youtube.com/watch?v=dQw4w9WgXcQ#gh-light-mode-only)
 
 ### Contacts
-[![Tutanota](https://img.shields.io/badge/-Tutanota-1a1d22?style=for-the-badge&logo=tutanota "Tutanota")](mailto:frestein@tuta.io)
-[![Telegram](https://img.shields.io/badge/-Telegram-1a1d22?style=for-the-badge&logo=telegram "Telegram")](https://t.me/fresteinart)
+[![Tutanota](https://img.shields.io/badge/-Tutanota-840010?style=for-the-badge&logo=tutanota "Tutanota")](mailto:frestein@tuta.io)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=FFFFFF "Telegram")](https://t.me/fresteinart)
